@@ -1,52 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>NYU Predictive Analytics Unit</title>
-    <link>https://nyupau.github.io/docs/</link>
-    <description>Recent content on NYU Predictive Analytics Unit</description>
+    <title>Our team on NYU Predictive Analytics Unit</title>
+    <link>https://nyupau.github.io/docs/team/</link>
+    <description>Recent content in Our team on NYU Predictive Analytics Unit</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Code released under the Apache 2.0 license.</copyright>
-    <lastBuildDate>Wed, 31 Oct 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://nyupau.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://nyupau.github.io/docs/team/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>About Us</title>
-      <link>https://nyupau.github.io/docs/about/</link>
-      <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://nyupau.github.io/docs/about/</guid>
-      <description>The Predictive Analytics Unit (PAU) at NYU Langone Health is directed by Asst. Prof. Yin Aphinyanaphongs and is an academic lab working in an operations space.
-Founded as a product of NYU&amp;rsquo;s Center for Healthcare Innovation and Delivery Science (CHIDS), PAU works closely with colleagues across Clinical, Medical Center IT, and Academic groups.
-Our Objective PAU&amp;rsquo;s primary objective is to provide internal predictive modeling capacity and expertise to:
- facilitate real-time clinical decision-making, increase operational efficiency and value, and build the foundation for a learning healthcare system.</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>https://nyupau.github.io/docs/contact/</link>
-      <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://nyupau.github.io/docs/contact/</guid>
-      <description>If you want to get in touch with us, you can send us an email below.</description>
-    </item>
-    
-    <item>
-      <title>Two Quotes</title>
-      <link>https://nyupau.github.io/docs/posts/two-quotes/</link>
-      <pubDate>Mon, 29 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://nyupau.github.io/docs/posts/two-quotes/</guid>
-      <description> Two quotes To start off our new website, we wanted to share two quotes.
-The first is from Yin:
- &amp;ldquo;It is difficult to make predictions, especially about the future.&amp;rdquo; (English translation)
-&amp;ldquo;Det er vanskeligt at spaa, især naar det gælder Fremtiden.&amp;rdquo;
- And the second, slightly less profound, quote is from Walter:
- &amp;ldquo;Have you tried changing the learning rate?&amp;rdquo;
- </description>
-    </item>
     
     <item>
       <title>Himanshu Grover</title>

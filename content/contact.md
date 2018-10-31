@@ -2,6 +2,7 @@
 title: "Contact"
 date: 2018-10-30
 draft: true
+menu: "main"
 type: "contact"
 weight: -170
 ---

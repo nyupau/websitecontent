@@ -3,7 +3,7 @@ title: "Two Quotes"
 type: "post"
 date: 2018-10-29
 
-draft: true
+draft: false
 
 author: vincent
 tags: 

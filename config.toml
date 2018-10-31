@@ -16,6 +16,9 @@ showReadTime = true
 customCSS = [
   "<absolute path to CSS>",
   "/static/css/test.css",
+  "/static/css/avatar.css",
+  "/css/avatar.css",
+  "css/avatar.css",
   "<or just load it off the internet>"
 ]
 
@@ -38,9 +41,3 @@ customCSS = [
   name = "posts"
   url = "/posts/"
   weight = -250.0
-
-  [[menu.main]]
-  identifier = "team"
-  name = "Our Team"
-  url = "/team/"
-  weight = -200.0
