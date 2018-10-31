@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://nyupau.github.io/docs/"
 languageCode = "en-us"
 title = "NYU Predictive Analytics Unit"
 theme = "startbootstrap_clean_blog"

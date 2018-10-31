@@ -3,50 +3,50 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/contact/</loc>
+    <loc>https://nyupau.github.io/docs/contact/</loc>
     <lastmod>2018-10-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/two-quotes/</loc>
+    <loc>https://nyupau.github.io/docs/posts/two-quotes/</loc>
     <lastmod>2018-10-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://nyupau.github.io/docs/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/categories/misc/</loc>
-    <lastmod>2018-10-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/misc/</loc>
+    <loc>https://nyupau.github.io/docs/tags/misc/</loc>
     <lastmod>2018-10-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://nyupau.github.io/docs/categories/misc/</loc>
+    <lastmod>2018-10-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nyupau.github.io/docs/</loc>
     <lastmod>2018-10-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/team/</loc>
+    <loc>https://nyupau.github.io/docs/team/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://nyupau.github.io/docs/posts/</loc>
     <lastmod>2018-10-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://nyupau.github.io/docs/tags/</loc>
     <lastmod>2018-10-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
