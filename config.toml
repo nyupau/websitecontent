@@ -1,11 +1,11 @@
-baseURL = "https://nyupau.github.io/docs/"
+baseURL = "https://nyupau.github.io/"
 languageCode = "en-us"
 title = "NYU Predictive Analytics Unit"
 theme = "startbootstrap_clean_blog"
 canonifyurls = true
 paginate = 10.0
 copyright = "Code released under the Apache 2.0 license."
-publishDir = "docs"
+publishDir = "pau"
 
 [params]
 DateForm = "Jan 2, 2006"
