@@ -3,21 +3,20 @@ title: "About Us"
 date: 2018-10-31
 draft: false
 type: 'about'
-menu: 'main'
-weight: -280
 ---
 
-The Predictive Analytics Unit (PAU) at NYU Langone Health is directed by Asst. Prof. Yin Aphinyanaphongs and is an academic lab working in an operations space.
+The Predictive Analytics Unit (PAU) at NYU Langone Health focuses on translating predictive models into clinical practice and understanding the science and barriers involved. Our group:
 
-Founded as a product of NYU's 
-<a href="https://med.nyu.edu/chids/home" target="_blank">Center for Healthcare Innovation and Delivery Science (CHIDS)</a>,
-PAU works closely with colleagues across Clinical, Medical Center IT, and Academic groups.  
+* Provides internal capacity for predictive modeling at NYULH to facilitate real-time clinical decision-making, increase operational efficiency, and build foundation for a learning healthcare system. 
+* Leads specific projects from inception through development, deployment, and evaluation. 
+* Provides education and professional development to support building a data-driven organization. 
+* Builds community for clinical data science at NYULH.
+* Facilitates external collaborations.
+* Vets commercial AI based technologies for implementation at NYULH.
 
-### Our Objective
+### Getting Involved
 
-PAU's primary objective is to provide internal predictive modeling capacity and expertise to:
-
-1. facilitate real-time clinical decision-making,
-2. increase operational efficiency and value, and
-3. build the foundation for a learning healthcare system.
+* Email us at <a href="mailto:predictiveanalytics@nyumc.org" target="blank" >predictiveanalytics@nyumc.org</a>
+* Twice monthly Journal Club (email us)
+* Monthly Happy Hour (email us)
 

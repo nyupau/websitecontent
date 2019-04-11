@@ -7,7 +7,6 @@ draft: false
 
 <img src="/img/michael.jpg" alt="michael" class="avatar-large img-circle">
 
-
 Michael Quinn is a Project Manager working with PAU. 
 His interests and work lie in predictive modeling applications within healthcare and efficiency improvements. As a member of both the PAU and MCIT, Michael is responsible for project oversight of research initiatives, as well as ensuring models and healthcare applications are effectively implemented.
 
