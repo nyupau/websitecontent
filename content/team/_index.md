@@ -26,7 +26,7 @@ Our team at NYU Langone Health is a mix of Faculty, Data Analyists / Scientists 
   * [Walter Wang]( {{< ref "walter" >}} )
 * Data Management
   * [Marina Marin]( {{< ref "marina" >}} )
-  * [Po Lai Yau]( {{< ref "polai" >}} )
+  * [Dr. Po Lai Yau]( {{< ref "polai" >}} )
 * PhD Students
   * [Neil Jethani]( {{< ref "neil" >}} )
   * [Ji Chen]( {{< ref "ji" >}} )
