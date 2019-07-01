@@ -15,9 +15,9 @@ postSummariesFrontPage = 8.0
 showReadTime = true
 customCSS = [
   "<absolute path to CSS>",
-  "/static/css/test.css",
   "/static/css/avatar.css",
   "/static/css/images.css", 
+  "/static/css/tables.css", 
   "/css/avatar.css",
   "css/avatar.css",
   "<or just load it off the internet>"
