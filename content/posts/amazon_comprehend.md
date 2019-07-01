@@ -15,6 +15,9 @@ categories:
   - "blog"
 ---
 
+## Amazon Comprehend Medical and AI in Healthcare
+*Ben Guzman, Isabel Metzger, Yin Aphinyanaphongs, Himanshu Grover*
+
 The field of medicine is undergoing a massive transformation with widespread adoption and meaningful use of health information technology, promoted by the 
 <a href="https://www.hhs.gov/hipaa/for-professionals/special-topics/hitech-act-enforcement-interim-final-rule/index.html" target="_blank">HITECH (Health Information Technology for Economic and Clinical Health) Act of 2009</a>.
 With clinical practice now becoming increasingly data-driven, new tools powered by machine learning and artificial intelligence are being mobilized to solve tough problems. 
