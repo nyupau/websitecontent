@@ -6,6 +6,7 @@ canonifyurls = true
 paginate = 10.0
 copyright = "Code released under the Apache 2.0 license."
 publishDir = "pau"
+googleAnalytics = "UA-87888-98"
 
 [params]
 DateForm = "Jan 2, 2006"
